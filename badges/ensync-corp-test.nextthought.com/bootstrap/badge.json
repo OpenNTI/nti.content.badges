@@ -1,0 +1,8 @@
+{
+    "name": "enSYNC Corporation LMS bootstrap",
+    "description": "Badge to bootstrap the enSYNC Corporation LMS issuer",
+    "issuer": "https://ensync-corp-test.nextthought.com/badges/issuer.json",
+    "criteria": "https://ensync-corp-test.nextthought.com/badges/bootstrap/criteria.html",
+    "tags": ["internal"],
+    "image": "https://ensync-corp-test.nextthought.com/badges/bootstrap/badge.png"
+}

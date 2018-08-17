@@ -1,0 +1,8 @@
+{
+    "name": "Leadership for Team Management",
+    "description": "Earn a badge by completing the leadership course offered by NextThought",
+    "issuer": "https://ensync-corp-test.nextthought.com/dataserver2/OpenIssuers/enSYNC%20Corporation%20LMS/@@issuer.json",
+    "criteria": "https://ensync-corp-test.nextthought.com/badges/Leadership_for_Team_Management/criteria.html",
+    "tags": ["leadership", "management"],
+    "image": "https://ensync-corp-test.nextthought.com/badges/Leadership_for_Team_Management/badge.png"
+}
