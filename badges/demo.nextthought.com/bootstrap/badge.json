@@ -1,0 +1,8 @@
+{
+    "name": "Demo bootstrap",
+    "description": "Badge to bootstrap the NextThought Demo issuer",
+    "issuer": "https://demo.nextthought.com/badges/issuer.json",
+    "criteria": "https://demo.nextthought.com/badges/bootstrap/criteria.html",
+    "tags": ["internal"],
+    "image": "https://demo.nextthought.com/badges/bootstrap/badge.png"
+}
